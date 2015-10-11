@@ -1,15 +1,9 @@
 \beamer@endinputifotherversion {3.24pt}
 \select@language {spanish}
-\beamer@sectionintoc {1}{Algoritmos gen\IeC {\'e}ticos}{3}{0}{1}
-\beamer@sectionintoc {2}{Operadores de cruce con alfabeto finito}{8}{0}{2}
-\beamer@subsectionintoc {2}{1}{Tipos de operadores}{8}{0}{2}
-\beamer@sectionintoc {3}{Operadores de cruce con codificaci\IeC {\'o}n real}{14}{0}{3}
-\beamer@subsectionintoc {3}{1}{Operador de cruce plano}{16}{0}{3}
-\beamer@subsectionintoc {3}{2}{Operador de cruce lineal}{17}{0}{3}
-\beamer@subsectionintoc {3}{3}{Operador de cruce combinado}{18}{0}{3}
-\beamer@subsectionintoc {3}{4}{Operador de cruce morfol\IeC {\'o}gico}{19}{0}{3}
-\beamer@subsubsectionintoc {3}{4}{1}{C\IeC {\'a}lculo de la medida de la diversidad gen\IeC {\'e}tica}{21}{0}{3}
-\beamer@subsubsectionintoc {3}{4}{2}{C\IeC {\'a}lculo de los intervalos de cruce}{29}{0}{3}
-\beamer@subsubsectionintoc {3}{4}{3}{C\IeC {\'a}lculo de la descendencia}{34}{0}{3}
-\beamer@subsubsectionintoc {3}{4}{4}{Coste computacional del cruce morfol\IeC {\'o}gico}{35}{0}{3}
-\beamer@sectionintoc {4}{Reemplazo de individuos}{37}{0}{4}
+\beamer@sectionintoc {1}{Motivaci\IeC {\'o}n y objetivos}{3}{0}{1}
+\beamer@sectionintoc {2}{Marco te\IeC {\'o}rico}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Planificaci\IeC {\'o}n de movimientos}{6}{0}{2}
+\beamer@subsubsectionintoc {2}{1}{1}{FMM fotos}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{Biblioteca nD FMM}{19}{0}{2}
+\beamer@sectionintoc {3}{Trabajo Realizado}{21}{0}{3}
+\beamer@sectionintoc {4}{Resultados y conclusiones}{21}{0}{4}

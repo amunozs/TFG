@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.27)  9 OCT 2015 00:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.27)  11 OCT 2015 21:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1122,7 +1122,7 @@ Xy-pic pdf driver: `rotate' extension support
 (/usr/share/texlive/texmf-dist/tex/generic/xypic/xypdf-ro.tex loaded) loaded))
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 54.
+(hyperref)                removing `\new@ifnextchar' on input line 77.
 
 (./slides.aux
 LaTeX Info: Redefining \. on input line 25.
@@ -1130,21 +1130,21 @@ LaTeX Info: Redefining \% on input line 25.
 )
 \openout1 = `slides.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 82.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 77.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
@@ -1213,7 +1213,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring OFF on input line 82.
+Package hyperref Info: Link coloring OFF on input line 77.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1223,56 +1223,56 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count185
 )
-LaTeX Info: Redefining \ref on input line 82.
-LaTeX Info: Redefining \pageref on input line 82.
-LaTeX Info: Redefining \nameref on input line 82.
+LaTeX Info: Redefining \ref on input line 77.
+LaTeX Info: Redefining \pageref on input line 77.
+LaTeX Info: Redefining \nameref on input line 77.
 
 (./slides.out) (./slides.out)
 \@outlinefile=\write6
 \openout6 = `slides.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 82.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 77.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 82.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 77.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 82.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 82.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 77.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 82.
+(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 82.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 82.
+(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 77.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 82.
+(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 82.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 82.
+(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 77.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 82.
+(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 82.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 82.
+(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 77.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 82.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 82.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 77.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 82.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 77.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 82.
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 82.
+(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 82.
+(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 82.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 82.
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 82.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 77.
 
 (/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-basic-dicti
 onary/translator-basic-dictionary-English.dict
@@ -1298,33 +1298,33 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 82.
-LaTeX Info: Redefining \. on input line 82.
-LaTeX Info: Redefining \% on input line 82.
-LaTeX Font Info:    Try loading font information for U+msa on input line 82.
+LaTeX Info: Redefining \includegraphics on input line 77.
+LaTeX Info: Redefining \. on input line 77.
+LaTeX Info: Redefining \% on input line 77.
+LaTeX Font Info:    Try loading font information for U+msa on input line 77.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 82.
+LaTeX Font Info:    Try loading font information for U+msb on input line 77.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 82.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 77.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 82.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 77.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 82.
-Package xypdf Info: Line width: 0.39998pt on input line 82.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 77.
+Package xypdf Info: Line width: 0.39998pt on input line 77.
  (./slides.nav)
 <AAUgraphics/aau_logo_new_circle.png, id=15, 1027.84pt x 1027.84pt>
 File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
 
 <use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 82.
+ 77.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [1
@@ -1335,634 +1335,301 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 93.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 88.
 File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
 
 <use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 93.
+ 88.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [2
 
- <./AAUgraphics/aau_logo_new_circle.png>] <xymatrix 2x3 220>
+ <./AAUgraphics/aau_logo_new_circle.png>] <AAUgraphics/dudabot.png, id=37, 1117
+.776pt x 498.663pt>
+File: AAUgraphics/dudabot.png Graphic file (type png)
+
+<use AAUgraphics/dudabot.png>
+Package pdftex.def Info: AAUgraphics/dudabot.png used on input line 94.
+(pdftex.def)             Requested size: 307.29553pt x 137.0909pt.
 File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
  <use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 106.
+ 94.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
- [3
+
+[3
+
+ <./AAUgraphics/dudabot.png>]
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
+ <use AAUgraphics/aau_logo_new_circle.png>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
+ 101.
+(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
+Missing character: There is no ; in font nullfont!
+
+[4
 
 ]
 File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
+ <use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 122.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [4
-
-]
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 142.
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 142.
+ 119.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [5
 
 ]
-<AAUgraphics/exploracion_explotacion.png, id=61, 527.571pt x 495.65175pt>
-File: AAUgraphics/exploracion_explotacion.png Graphic file (type png)
-
-<use AAUgraphics/exploracion_explotacion.png>
-Package pdftex.def Info: AAUgraphics/exploracion_explotacion.png used on input 
-line 148.
-(pdftex.def)             Requested size: 221.94861pt x 208.5202pt.
-
-Overfull \vbox (7.37224pt too high) detected at line 148
- []
-
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 133.
 File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
+
 <use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 148.
+ 133.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [6
 
- <./AAUgraphics/exploracion_explotacion.png>] <AAUgraphics/balanza.png, id=68, 
-963.6pt x 654.0435pt>
-File: AAUgraphics/balanza.png Graphic file (type png)
+]
+<AAUgraphics/prm_1.png, id=67, 654.0435pt x 321.6015pt>
+File: AAUgraphics/prm_1.png Graphic file (type png)
 
-<use AAUgraphics/balanza.png>
-Package pdftex.def Info: AAUgraphics/balanza.png used on input line 167.
-(pdftex.def)             Requested size: 170.0pt x 115.38745pt.
-
-Overfull \vbox (13.8444pt too high) detected at line 167
- []
-
+<use AAUgraphics/prm_1.png>
+Package pdftex.def Info: AAUgraphics/prm_1.png used on input line 147.
+(pdftex.def)             Requested size: 153.64493pt x 75.5469pt.
 File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-<use AAUgraphics/aau_logo_new_circle.png>
+ <use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 167.
+ 147.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [7
 
- <./AAUgraphics/balanza.png>]
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <7> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 188.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <5> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 188.
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 188.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 188.
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <7> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 188.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <7> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 188.
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <5> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 188.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <5> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 188.
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
+ <./AAUgraphics/prm_1.png>] <AAUgraphics/prm_2.png, id=75, 654.0435pt x 321.601
+5pt>
+File: AAUgraphics/prm_2.png Graphic file (type png)
 
-<use AAUgraphics/aau_logo_new_circle.png>
+<use AAUgraphics/prm_2.png>
+Package pdftex.def Info: AAUgraphics/prm_2.png used on input line 160.
+(pdftex.def)             Requested size: 153.64493pt x 75.5469pt.
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
+ <use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 188.
+ 160.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [8
 
-] <xymatrix 3x3 106>
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
+ <./AAUgraphics/prm_2.png>] <AAUgraphics/prm_3.png, id=82, 654.0435pt x 321.601
+5pt>
+File: AAUgraphics/prm_3.png Graphic file (type png)
 
-<use AAUgraphics/aau_logo_new_circle.png>
+<use AAUgraphics/prm_3.png>
+Package pdftex.def Info: AAUgraphics/prm_3.png used on input line 174.
+(pdftex.def)             Requested size: 153.64493pt x 75.5469pt.
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
+ <use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 206.
+ 174.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [9
 
-] <xymatrix 4x3 118>
+ <./AAUgraphics/prm_3.png>]
 File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
+ <use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 224.
+ 186.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [10
 
 ]
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 246.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 246.
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
+<AAUgraphics//FMM/grid0.png, id=98, 840.13875pt x 849.1725pt>
+File: AAUgraphics//FMM/grid0.png Graphic file (type png)
 
+<use AAUgraphics//FMM/grid0.png>
+Package pdftex.def Info: AAUgraphics//FMM/grid0.png used on input line 193.
+(pdftex.def)             Requested size: 206.3037pt x 208.52202pt.
+
+Overfull \vbox (7.37405pt too high) detected at line 193
+ []
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
 <use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 246.
+ 193.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [11
 
-]
-<AAUgraphics/cruce.PNG, id=108, 337.86224pt x 71.66776pt>
-File: AAUgraphics/cruce.PNG Graphic file (type png)
+ <./AAUgraphics//FMM/grid0.png>]
+<AAUgraphics//FMM/grid1.png, id=107, 840.13875pt x 849.1725pt>
+File: AAUgraphics//FMM/grid1.png Graphic file (type png)
 
-<use AAUgraphics/cruce.PNG>
-Package pdftex.def Info: AAUgraphics/cruce.PNG used on input line 290.
-(pdftex.def)             Requested size: 337.8614pt x 71.66757pt.
+<use AAUgraphics//FMM/grid1.png>
+Package pdftex.def Info: AAUgraphics//FMM/grid1.png used on input line 198.
+(pdftex.def)             Requested size: 206.3037pt x 208.52202pt.
+
+Overfull \vbox (7.37405pt too high) detected at line 198
+ []
+
 File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
- <use AAUgraphics/aau_logo_new_circle.png>
+<use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 290.
+ 198.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [12
 
- <./AAUgraphics/cruce.PNG>]
+ <./AAUgraphics//FMM/grid1.png>]
+<AAUgraphics//FMM/grid2.png, id=115, 840.13875pt x 849.1725pt>
+File: AAUgraphics//FMM/grid2.png Graphic file (type png)
+
+<use AAUgraphics//FMM/grid2.png>
+Package pdftex.def Info: AAUgraphics//FMM/grid2.png used on input line 203.
+(pdftex.def)             Requested size: 206.3037pt x 208.52202pt.
+
+Overfull \vbox (7.37405pt too high) detected at line 203
+ []
+
 File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
- <use AAUgraphics/aau_logo_new_circle.png>
+<use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 304.
+ 203.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [13
 
-]
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
+ <./AAUgraphics//FMM/grid2.png>]
+<AAUgraphics//FMM/grid3.png, id=124, 840.13875pt x 849.1725pt>
+File: AAUgraphics//FMM/grid3.png Graphic file (type png)
 
+<use AAUgraphics//FMM/grid3.png>
+Package pdftex.def Info: AAUgraphics//FMM/grid3.png used on input line 208.
+(pdftex.def)             Requested size: 206.3037pt x 208.52202pt.
+
+Overfull \vbox (7.37405pt too high) detected at line 208
+ []
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
 <use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 345.
+ 208.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [14
 
-]
-<AAUgraphics/crucereal.jpg, id=129, 886.31125pt x 200.75pt>
-File: AAUgraphics/crucereal.jpg Graphic file (type jpg)
+ <./AAUgraphics//FMM/grid3.png>]
+<AAUgraphics//FMM/grid5.png, id=132, 840.13875pt x 849.1725pt>
+File: AAUgraphics//FMM/grid5.png Graphic file (type png)
 
-<use AAUgraphics/crucereal.jpg>
-Package pdftex.def Info: AAUgraphics/crucereal.jpg used on input line 369.
-(pdftex.def)             Requested size: 284.52756pt x 64.44653pt.
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
- <use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 369.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
+<use AAUgraphics//FMM/grid5.png>
+Package pdftex.def Info: AAUgraphics//FMM/grid5.png used on input line 213.
+(pdftex.def)             Requested size: 206.3037pt x 208.52202pt.
 
-[15
-
- <./AAUgraphics/crucereal.jpg>]
-<AAUgraphics/arrow.png, id=140, 430.2586pt x 430.2586pt>
-File: AAUgraphics/arrow.png Graphic file (type png)
-
-<use AAUgraphics/arrow.png>
-Package pdftex.def Info: AAUgraphics/arrow.png used on input line 410.
-(pdftex.def)             Requested size: 28.45274pt x 28.44704pt.
-
-<AAUgraphics/cruceplano.jpg, id=141, 1027.84pt x 200.75pt>
-File: AAUgraphics/cruceplano.jpg Graphic file (type jpg)
-
-<use AAUgraphics/cruceplano.jpg>
-Package pdftex.def Info: AAUgraphics/cruceplano.jpg used on input line 410.
-(pdftex.def)             Requested size: 284.52756pt x 55.57246pt.
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
- <use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 410.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
-
-[16
-
- <./AAUgraphics/arrow.png> <./AAUgraphics/cruceplano.jpg>]
-File: AAUgraphics/arrow.png Graphic file (type png)
-
-<use AAUgraphics/arrow.png>
-Package pdftex.def Info: AAUgraphics/arrow.png used on input line 449.
-(pdftex.def)             Requested size: 28.45274pt x 28.44704pt.
-
-<AAUgraphics/crucelineal.jpg, id=150, 1027.84pt x 200.75pt>
-File: AAUgraphics/crucelineal.jpg Graphic file (type jpg)
-
-<use AAUgraphics/crucelineal.jpg>
-Package pdftex.def Info: AAUgraphics/crucelineal.jpg used on input line 449.
-(pdftex.def)             Requested size: 284.52756pt x 55.57246pt.
-
-Overfull \vbox (11.55219pt too high) detected at line 449
+Overfull \vbox (7.37405pt too high) detected at line 213
  []
 
 File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
 <use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 449.
+ 213.
+(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
+Missing character: There is no ; in font nullfont!
+ [15
+
+ <./AAUgraphics//FMM/grid5.png>]
+<AAUgraphics//FMM/grid7.png, id=140, 840.13875pt x 849.1725pt>
+File: AAUgraphics//FMM/grid7.png Graphic file (type png)
+
+<use AAUgraphics//FMM/grid7.png>
+Package pdftex.def Info: AAUgraphics//FMM/grid7.png used on input line 218.
+(pdftex.def)             Requested size: 206.3037pt x 208.52202pt.
+
+Overfull \vbox (7.37405pt too high) detected at line 218
+ []
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
+<use AAUgraphics/aau_logo_new_circle.png>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
+ 218.
+(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
+Missing character: There is no ; in font nullfont!
+ [16
+
+ <./AAUgraphics//FMM/grid7.png>]
+<AAUgraphics//FMM/grid8.png, id=148, 840.13875pt x 849.1725pt>
+File: AAUgraphics//FMM/grid8.png Graphic file (type png)
+
+<use AAUgraphics//FMM/grid8.png>
+Package pdftex.def Info: AAUgraphics//FMM/grid8.png used on input line 223.
+(pdftex.def)             Requested size: 206.3037pt x 208.52202pt.
+
+Overfull \vbox (7.37405pt too high) detected at line 223
+ []
+
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
+<use AAUgraphics/aau_logo_new_circle.png>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
+ 223.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [17
 
- <./AAUgraphics/crucelineal.jpg>]
-File: AAUgraphics/arrow.png Graphic file (type png)
+ <./AAUgraphics//FMM/grid8.png>]
+<AAUgraphics//FMM/gridfin.png, id=156, 840.13875pt x 849.1725pt>
+File: AAUgraphics//FMM/gridfin.png Graphic file (type png)
 
-<use AAUgraphics/arrow.png>
-Package pdftex.def Info: AAUgraphics/arrow.png used on input line 487.
-(pdftex.def)             Requested size: 28.45274pt x 28.44704pt.
+<use AAUgraphics//FMM/gridfin.png>
+Package pdftex.def Info: AAUgraphics//FMM/gridfin.png used on input line 228.
+(pdftex.def)             Requested size: 206.3037pt x 208.52202pt.
 
-<AAUgraphics/crucecombinado.jpg, id=159, 1027.84pt x 200.75pt>
-File: AAUgraphics/crucecombinado.jpg Graphic file (type jpg)
-
-<use AAUgraphics/crucecombinado.jpg>
-Package pdftex.def Info: AAUgraphics/crucecombinado.jpg used on input line 487.
-
-(pdftex.def)             Requested size: 284.52756pt x 55.57246pt.
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
- <use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 487.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
-
-[18
-
- <./AAUgraphics/crucecombinado.jpg>]
-<AAUgraphics/crucemorfologico.jpg, id=168, 1027.84pt x 200.75pt>
-File: AAUgraphics/crucemorfologico.jpg Graphic file (type jpg)
-
-<use AAUgraphics/crucemorfologico.jpg>
-Package pdftex.def Info: AAUgraphics/crucemorfologico.jpg used on input line 50
-9.
-(pdftex.def)             Requested size: 284.52756pt x 55.57246pt.
-File: AAUgraphics/crucecombinado.jpg Graphic file (type jpg)
- <use AAUgraphics/crucecombinado.jpg>
-Package pdftex.def Info: AAUgraphics/crucecombinado.jpg used on input line 509.
-
-(pdftex.def)             Requested size: 284.52756pt x 55.57246pt.
-
-Overfull \vbox (5.23772pt too high) detected at line 509
+Overfull \vbox (7.37405pt too high) detected at line 228
  []
 
 File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
 <use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 509.
+ 228.
+(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
+Missing character: There is no ; in font nullfont!
+ [18
+
+ <./AAUgraphics//FMM/gridfin.png>]
+File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
+<use AAUgraphics/aau_logo_new_circle.png>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
+ 238.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [19
 
- <./AAUgraphics/crucemorfologico.jpg>]
+]
+<AAUgraphics/grid1.png, id=173, 565.51276pt x 264.38776pt>
+File: AAUgraphics/grid1.png Graphic file (type png)
+
+<use AAUgraphics/grid1.png>
+Package pdftex.def Info: AAUgraphics/grid1.png used on input line 244.
+(pdftex.def)             Requested size: 215.10417pt x 100.5652pt.
 File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
  <use AAUgraphics/aau_logo_new_circle.png>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 522.
+ 244.
 (pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
 Missing character: There is no ; in font nullfont!
  [20
 
-]
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 543.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [21
-
-]
-<AAUgraphics/gradiente_altura.jpg, id=190, 276.03125pt x 183.68625pt>
-File: AAUgraphics/gradiente_altura.jpg Graphic file (type jpg)
-
-<use AAUgraphics/gradiente_altura.jpg>
-Package pdftex.def Info: AAUgraphics/gradiente_altura.jpg used on input line 55
-1.
-(pdftex.def)             Requested size: 284.52756pt x 189.35869pt.
-
-Overfull \vbox (0.41566pt too high) detected at line 551
- []
-
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 551.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [22
-
- <./AAUgraphics/gradiente_altura.jpg>] <AAUgraphics/rb_original.jpg, id=197, 13
-3.49875pt x 136.51pt>
-File: AAUgraphics/rb_original.jpg Graphic file (type jpg)
-
-<use AAUgraphics/rb_original.jpg>
-Package pdftex.def Info: AAUgraphics/rb_original.jpg used on input line 571.
-(pdftex.def)             Requested size: 85.35826pt x 87.28694pt.
-
-<AAUgraphics/rb_binarizado.jpg, id=198, 133.49875pt x 138.5175pt>
-File: AAUgraphics/rb_binarizado.jpg Graphic file (type jpg)
-
-<use AAUgraphics/rb_binarizado.jpg>
-Package pdftex.def Info: AAUgraphics/rb_binarizado.jpg used on input line 571.
-(pdftex.def)             Requested size: 85.35826pt x 88.57057pt.
-
-<AAUgraphics/rb_gradmorf.jpg, id=199, 137.51375pt x 135.50626pt>
-File: AAUgraphics/rb_gradmorf.jpg Graphic file (type jpg)
-
-<use AAUgraphics/rb_gradmorf.jpg>
-Package pdftex.def Info: AAUgraphics/rb_gradmorf.jpg used on input line 571.
-(pdftex.def)             Requested size: 91.04881pt x 89.72179pt.
-
-Overfull \hbox (21.23586pt too wide) in paragraph at lines 571--571
- [][] 
- []
-
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 571.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [23
-
- <./AAUgraphics/rb_original.jpg> <./AAUgraphics/rb_binarizado.jpg> <./AAUgraphi
-cs/rb_gradmorf.jpg>]
-<AAUgraphics/matriz_pixel.jpg, id=206, 114.4275pt x 109.91063pt>
-File: AAUgraphics/matriz_pixel.jpg Graphic file (type jpg)
-
-<use AAUgraphics/matriz_pixel.jpg>
-Package pdftex.def Info: AAUgraphics/matriz_pixel.jpg used on input line 596.
-(pdftex.def)             Requested size: 56.9055pt x 54.65831pt.
-
-<AAUgraphics/elemento_estructurante.png, id=207, 68.50594pt x 65.49469pt>
-File: AAUgraphics/elemento_estructurante.png Graphic file (type png)
-
-<use AAUgraphics/elemento_estructurante.png>
-Package pdftex.def Info: AAUgraphics/elemento_estructurante.png used on input l
-ine 596.
-(pdftex.def)             Requested size: 28.45274pt x 27.20276pt.
-
-<AAUgraphics/matriz_dilatada.jpg, id=208, 114.4275pt x 109.91063pt>
-File: AAUgraphics/matriz_dilatada.jpg Graphic file (type jpg)
-
-<use AAUgraphics/matriz_dilatada.jpg>
-Package pdftex.def Info: AAUgraphics/matriz_dilatada.jpg used on input line 596
-.
-(pdftex.def)             Requested size: 56.9055pt x 54.65831pt.
-
-<AAUgraphics/matriz_dilatada_sin_estructurante.jpg, id=209, 114.4275pt x 109.91
-063pt>
-File: AAUgraphics/matriz_dilatada_sin_estructurante.jpg Graphic file (type jpg)
-
- <use AAUgraphics/matriz_dilatada_sin_estructurante.jpg>
-Package pdftex.def Info: AAUgraphics/matriz_dilatada_sin_estructurante.jpg used
- on input line 596.
-(pdftex.def)             Requested size: 56.9055pt x 54.65831pt.
-
-Overfull \vbox (14.8083pt too high) detected at line 596
- []
-
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 596.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [24
-
- <./AAUgraphics/matriz_pixel.jpg> <./AAUgraphics/elemento_estructurante.png> <.
-/AAUgraphics/matriz_dilatada.jpg> <./AAUgraphics/matriz_dilatada_sin_estructura
-nte.jpg>]
-<AAUgraphics/matriz_para_erosion.jpg, id=217, 114.4275pt x 109.91063pt>
-File: AAUgraphics/matriz_para_erosion.jpg Graphic file (type jpg)
-
-<use AAUgraphics/matriz_para_erosion.jpg>
-Package pdftex.def Info: AAUgraphics/matriz_para_erosion.jpg used on input line
- 621.
-(pdftex.def)             Requested size: 56.9055pt x 54.65831pt.
-File: AAUgraphics/elemento_estructurante.png Graphic file (type png)
-
-<use AAUgraphics/elemento_estructurante.png>
-Package pdftex.def Info: AAUgraphics/elemento_estructurante.png used on input l
-ine 621.
-(pdftex.def)             Requested size: 28.45274pt x 27.20276pt.
-
-<AAUgraphics/matriz_erosionada.jpg, id=218, 114.4275pt x 109.91063pt>
-File: AAUgraphics/matriz_erosionada.jpg Graphic file (type jpg)
-
-<use AAUgraphics/matriz_erosionada.jpg>
-Package pdftex.def Info: AAUgraphics/matriz_erosionada.jpg used on input line 6
-21.
-(pdftex.def)             Requested size: 56.9055pt x 54.65831pt.
-File: AAUgraphics/matriz_pixel.jpg Graphic file (type jpg)
- <use AAUgraphics/matriz_pixel.jpg>
-Package pdftex.def Info: AAUgraphics/matriz_pixel.jpg used on input line 621.
-(pdftex.def)             Requested size: 56.9055pt x 54.65831pt.
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 621.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [25
-
- <./AAUgraphics/matriz_para_erosion.jpg> <./AAUgraphics/matriz_erosionada.jpg>]
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 645.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [26
-
-]
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 667.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [27
-
-]
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 689.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [28
-
-]
-
-LaTeX Warning: Command \' invalid in math mode on input line 704.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 704.
-
-Missing character: There is no ó in font cmss8!
-Missing character: There is no á in font cmss9!
-
-LaTeX Warning: Command \' invalid in math mode on input line 704.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 704.
-
-Missing character: There is no ó in font cmss8!
-Missing character: There is no í in font cmss9!
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 704.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [29
-
-]
-
-LaTeX Warning: Command \' invalid in math mode on input line 716.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 716.
-
-Missing character: There is no í in font cmss9!
-Missing character: There is no á in font cmss9!
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 716.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [30
-
-]
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 733.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [31
-
-]
-<AAUgraphics/FuncionFEE.jpeg, id=267, 295.65pt x 193.45pt>
-File: AAUgraphics/FuncionFEE.jpeg Graphic file (type jpg)
-
-<use AAUgraphics/FuncionFEE.jpeg>
-Package pdftex.def Info: AAUgraphics/FuncionFEE.jpeg used on input line 738.
-(pdftex.def)             Requested size: 295.64926pt x 193.44951pt.
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
- <use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 738.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
-
-[32
-
- <./AAUgraphics/FuncionFEE.jpeg>]
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
- <use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 749.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
-
-[33
-
-]
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
- <use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 768.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [34
-
-]
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 782.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [35
-
-]
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 808.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [36
-
-]
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 817.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [37
-
-]
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 825.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [38
-
-]
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 840.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [39
-
-]
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 857.
-File: AAUgraphics/aau_logo_new_circle.png Graphic file (type png)
-
-<use AAUgraphics/aau_logo_new_circle.png>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.png used on input line
- 857.
-(pdftex.def)             Requested size: 32.06238pt x 32.05717pt.
-Missing character: There is no ; in font nullfont!
- [40
-
-]
-<AAUgraphics/aau_waves.pdf, id=327, 845.1575pt x 598.235pt>
+ <./AAUgraphics/grid1.png>]
+<AAUgraphics/aau_waves.pdf, id=180, 845.1575pt x 598.235pt>
 File: AAUgraphics/aau_waves.pdf Graphic file (type pdf)
 
 <use AAUgraphics/aau_waves.pdf>
-Package pdftex.def Info: AAUgraphics/aau_waves.pdf used on input line 863.
+Package pdftex.def Info: AAUgraphics/aau_waves.pdf used on input line 252.
 (pdftex.def)             Requested size: 364.1973pt x 273.1467pt.
- [41
+ [21
 
  <./AAUgraphics/aau_waves.pdf, page is rotated 270 degrees>]
 \tf@nav=\write7
@@ -1974,51 +1641,38 @@ Package pdftex.def Info: AAUgraphics/aau_waves.pdf used on input line 863.
 \tf@snm=\write9
 \openout9 = `slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 865.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 865.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
  (./slides.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 865.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 865.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 254.
 Package rerunfilecheck Info: File `slides.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 865.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 254.
  ) 
 Here is how much of TeX's memory you used:
- 22452 strings out of 494925
- 397796 string characters out of 6178544
- 513432 words of memory out of 5000000
- 24982 multiletter control sequences out of 15000+600000
- 76595 words of font info for 103 fonts, out of 8000000 for 9000
+ 22025 strings out of 494925
+ 390268 string characters out of 6178544
+ 509184 words of memory out of 5000000
+ 24635 multiletter control sequences out of 15000+600000
+ 41971 words of font info for 62 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
  52i,17n,60p,3217b,870s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/symbols/msam5.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic
-/uhvro8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xyatip10.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/xypic/xybtip10.pfb>
-Output written on slides.pdf (41 pages, 985986 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/symbols/msam5.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uh
+vro8a.pfb>
+Output written on slides.pdf (21 pages, 1444480 bytes).
 PDF statistics:
- 428 PDF objects out of 1000 (max. 8388607)
- 325 compressed objects within 4 object streams
- 94 named destinations out of 1000 (max. 500000)
- 158 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 225 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 123 words of extra memory for PDF output out of 10000 (max. 10000000)
 
