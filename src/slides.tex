@@ -84,6 +84,13 @@
 \end{frame}}
 %%%%%%%%%%%%%%%%
 
+\begin{frame}{Objetivos}
+	\large nD FMM: n-Dimensional Fast Marching Methods
+	\vspace{1cm}
+	
+	\large OMPL: Open Motion Planning Library
+\end{frame}
+
 % TOC
 \begin{frame}{Índice}{}
 \tableofcontents
@@ -93,13 +100,6 @@
 \section{Motivación y objetivos}
 
 \begin{frame}{Motivación}		\includegraphics[width=\textwidth,height=0.8\textheight,keepaspectratio]{dudabot}
-\end{frame}
-
-\begin{frame}{Objetivos}
-	\large nD FMM: n-Dimensional Fast Marching Methods
-	\vspace{1cm}
-	
-	\large OMPL: Open Motion Planning Library
 \end{frame}
 
 \begin{frame}{Objetivos}
@@ -295,6 +295,22 @@ Crear una interfaz que permita complementar las funcionalidades que ofrecen amba
 
 \section{Trabajo Realizado}
 
+\begin{frame}{Conversión de mapas de OMPL a nD FMM}
+	\begin{itemize}
+		\item No todos los algoritmos requieren mapas exactos
+		\item Es preferible en algunos casos minimizar el coste computacional
+		
+		\vspace{0.5cm}
+		\item Dos tipos de métodos para convertir mapas
+			\begin{itemize}
+				\item Muestreo secuencial
+				\item Muestreo aleatorio
+			\end{itemize}
+		
+	\end{itemize}
+\end{frame}
+
+
 \begin{frame}{Conversión de estados}
 	\begin{multicols}{2}
 		\includegraphics[width=0.45\textwidth,keepaspectratio]{ejes}	
@@ -315,20 +331,6 @@ Crear una interfaz que permita complementar las funcionalidades que ofrecen amba
 	\end{center}
 \end{frame}
 
-\begin{frame}{Conversión de mapas de OMPL a nD FMM}
-	\begin{itemize}
-		\item No todos los algoritmos requieren mapas exactos
-		\item Es preferible en algunos casos minimizar el coste computacional
-		
-		\vspace{0.5cm}
-		\item Dos tipos de métodos para convertir mapas
-			\begin{itemize}
-				\item Muestreo secuencial
-				\item Muestreo aleatorio
-			\end{itemize}
-		
-	\end{itemize}
-\end{frame}
 
 \begin{frame}{Métodos aleatorios}
 \begin{center}
