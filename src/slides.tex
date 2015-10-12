@@ -1,6 +1,7 @@
 \documentclass[10pt]{beamer}
 \usepackage{etex}
 \usepackage{multicol}
+\usepackage{media9}
 \usetheme[
 %%% options passed to the outer theme
 %    progressstyle=fixedCircCnt,   %either fixedCircCnt, movCircCnt, or corner
@@ -353,6 +354,21 @@ Crear una interfaz que permita complementar las funcionalidades que ofrecen amba
 \end{frame}
 
 \section{Resultados y conclusiones}
+
+\begin{frame}{Video example}
+\begin{center}
+\includemedia[
+    width=6cm,height=6cm,
+    activate=pageopen,
+    addresource=vid.flv,
+    flashvars={
+        source=vid.flv
+       &autoPlay=true
+    }
+]{}{VPlayer.swf}
+\end{center}
+\end{frame}
+
 
 {\aauwavesbg
 	\begin{frame}[plain,noframenumbering]
