@@ -7,4 +7,4 @@
 \beamer@subsectionintoc {2}{2}{Biblioteca nD FMM}{19}{0}{2}
 \beamer@sectionintoc {3}{Trabajo Realizado}{24}{0}{3}
 \beamer@subsectionintoc {3}{1}{Rotacion}{25}{0}{3}
-\beamer@sectionintoc {4}{Resultados y conclusiones}{30}{0}{4}
+\beamer@sectionintoc {4}{Resultados y conclusiones}{33}{0}{4}
