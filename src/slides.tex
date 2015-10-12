@@ -1,5 +1,6 @@
 \documentclass[10pt]{beamer}
 \usepackage{etex}
+\usepackage{multicol}
 \usetheme[
 %%% options passed to the outer theme
 %    progressstyle=fixedCircCnt,   %either fixedCircCnt, movCircCnt, or corner
@@ -237,12 +238,119 @@ Crear una interfaz que permita complementar las funcionalidades que ofrecen amba
 	\end{itemize}
 \end{frame}
 
-\begin{frame}
+\begin{frame}{Representación del espacio en nD FMM}
 	\begin{center}	
-	\includegraphics[width=0.7\textwidth,height=0.6\textheight,keepaspectratio]{grid1}	
+	\includegraphics[width=0.9\textwidth,height=0.8\textheight,keepaspectratio]{grid1}	
 	\end{center}
 \end{frame}
+
+%\begin{frame}{OMPL}
+%Clases principales de OMPL
+%\begin{itemize}
+%	\item SpaceInformation
+%	\item ProblemDefinition
+%	\item Planner
+%\end{itemize}
+%\end{frame}
+
+\begin{frame}
+ \vspace{1.3cm}
+	\begin{center}	
+		\includegraphics[width=0.8\textwidth,height=0.8\textheight,keepaspectratio]{OMPL1}	
+	\end{center}
+\end{frame}
+
+\begin{frame}{Representación del espacio en OMPL}
+	\begin{itemize}
+		\item Describe el espacio de la manera mas general posible
+		
+		\item Encapsulados en clase StateSpace
+			\begin{itemize}
+				
+				\item RealVectorStateSpace
+				\item SO2StateSpace
+				\item SO3StateSpace
+				\item CompoundStateSpace
+				\begin{itemize}
+					\item SE2StateSpace
+					\item SE3StateSpace
+				\end{itemize}
+			\end{itemize}
+		\item Los espacios de estados son continuos
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{OMPL.app}
+	\begin{itemize}
+		\item Expansión de la OMPL para la resolución de problemas SE(2) y SE(3)
+		\item SE2RigidBodyPlanning y SE3RigidBodyPlanning
+		\item Implementa un detector de colisiones
+		\item Permite cargar archivos COLLADA de entornos y robots en 3D
+		\item Incluye una interfaz gráfica de usuario	
+		
+	\end{itemize}
+\end{frame}
+
+
 \section{Trabajo Realizado}
+
+\begin{frame}{Conversión de estados}
+	\begin{multicols}{2}
+		\includegraphics[width=0.45\textwidth,keepaspectratio]{ejes}	
+		\begin{enumerate}
+			\item Utilizar método \textit{as<T>} para hacer casting de StateSpace
+			\item Obtener vector de coordenadas
+			\item Obtener límites del entorno
+			\item Unificar ejes de coordenadas
+			\item Convertir coordenadas a índice en la rejilla
+		\end{enumerate}
+	\end{multicols}
+\end{frame}
+
+\subsection{Rotacion}
+\begin{frame}{Conversión de la rotación}
+	\begin{center}
+	\includegraphics[width=0.7\textwidth,height=0.6\textheight,keepaspectratio]{rotacion}	
+	\end{center}
+\end{frame}
+
+\begin{frame}{Conversión de mapas de OMPL a nD FMM}
+	\begin{itemize}
+		\item No todos los algoritmos requieren mapas exactos
+		\item Es preferible en algunos casos minimizar el coste computacional
+		
+		\vspace{0.5cm}
+		\item Dos tipos de métodos para convertir mapas
+			\begin{itemize}
+				\item Muestreo secuencial
+				\item Muestreo aleatorio
+			\end{itemize}
+		
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Métodos aleatorios}
+\begin{center}
+\includegraphics[width=\textwidth,height=0.8\textheight,keepaspectratio]{seleccion}	
+\end{center}
+\end{frame}
+
+\begin{frame}{Comparación de métodos 1 y 2}
+\begin{center}
+\includegraphics[width=0.38\textwidth]{/Tests/MazeN7M03D}
+\includegraphics[width=0.38\textwidth]{/Tests/MazeN5M1P033D}
+
+\includegraphics[width=0.38\textwidth]{/Tests/MazeN5M1P093D}
+\includegraphics[width=0.38\textwidth]{/Tests/MazeN6M1P033D}
+\end{center}
+\end{frame}
+
+\begin{frame}{Comparación de métodos 1 y 2}
+\vfill
+\begin{center}
+\includegraphics[width=0.7\textwidth]{/Tests/T13D}
+\end{center}
+\end{frame}
 
 \section{Resultados y conclusiones}
 
