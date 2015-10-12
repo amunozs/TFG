@@ -1,10 +1,10 @@
 \beamer@endinputifotherversion {3.24pt}
 \select@language {spanish}
 \beamer@sectionintoc {1}{Motivaci\IeC {\'o}n y objetivos}{4}{0}{1}
-\beamer@sectionintoc {2}{Marco te\IeC {\'o}rico}{6}{0}{2}
-\beamer@subsectionintoc {2}{1}{Planificaci\IeC {\'o}n de movimientos}{6}{0}{2}
-\beamer@subsubsectionintoc {2}{1}{1}{FMM fotos}{11}{0}{2}
-\beamer@subsectionintoc {2}{2}{Biblioteca nD FMM}{19}{0}{2}
-\beamer@sectionintoc {3}{Trabajo Realizado}{24}{0}{3}
-\beamer@subsectionintoc {3}{1}{Rotacion}{26}{0}{3}
-\beamer@sectionintoc {4}{Resultados y conclusiones}{33}{0}{4}
+\beamer@sectionintoc {2}{Marco te\IeC {\'o}rico}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Planificaci\IeC {\'o}n de movimientos}{8}{0}{2}
+\beamer@subsubsectionintoc {2}{1}{1}{FMM fotos}{13}{0}{2}
+\beamer@subsectionintoc {2}{2}{Biblioteca nD FMM}{21}{0}{2}
+\beamer@sectionintoc {3}{Trabajo Realizado}{26}{0}{3}
+\beamer@subsectionintoc {3}{1}{Rotacion}{28}{0}{3}
+\beamer@sectionintoc {4}{Resultados y conclusiones}{37}{0}{4}
