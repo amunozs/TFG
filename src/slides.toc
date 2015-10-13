@@ -6,5 +6,5 @@
 \beamer@subsubsectionintoc {2}{1}{1}{FMM fotos}{13}{0}{2}
 \beamer@subsectionintoc {2}{2}{Biblioteca nD FMM}{21}{0}{2}
 \beamer@sectionintoc {3}{Trabajo Realizado}{26}{0}{3}
-\beamer@subsectionintoc {3}{1}{Rotacion}{28}{0}{3}
-\beamer@sectionintoc {4}{Resultados y conclusiones}{37}{0}{4}
+\beamer@subsectionintoc {3}{1}{Rotacion}{29}{0}{3}
+\beamer@sectionintoc {4}{Resultados y conclusiones}{39}{0}{4}
